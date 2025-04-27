@@ -1,0 +1,13 @@
+Feature,Meaning,Typical Range,Notes
+Danceability,"How suitable a track is for dancing, based on tempo, rhythm stability, etc.",0.0 to 1.0,Higher = easier to dance to
+Energy,"Intensity and activity of a track. High energy sounds fast, loud, and noisy.",0.0 to 1.0,"Higher = louder, faster, more intense"
+Key,Estimated musical key (pitch center) of the song.,0 to 11,"0 = C, 1 = C#/Db, ..., 11 = B"
+Loudness,Overall loudness measured in decibels (dB).,-60 to 0 dB,Closer to 0 = louder
+Mode,Major or minor scale mode of the song.,0 or 1,"0 = Minor, 1 = Major"
+Speechiness,Measure of spoken words in the track.,0.0 to 1.0,"Higher = more speech-like (e.g., rap)"
+Acousticness,Confidence the track is acoustic.,0.0 to 1.0,Higher = more acoustic/natural
+Instrumentalness,Predicts if track contains no vocals.,0.0 to 1.0,Higher = more instrumental
+Liveness,Detects presence of an audience or live recording.,0.0 to 1.0,Higher = more live feel
+Valence,Musical positiveness conveyed by the track.,0.0 to 1.0,Higher = happier sounding
+Tempo,Estimated beats per minute (BPM) of the track.,~50 to ~200 BPM,Higher = faster tempo
+Duration (ms),Duration of the track in milliseconds.,-,"180,000 ms = 3 minutes"

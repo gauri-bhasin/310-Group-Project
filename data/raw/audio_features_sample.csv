@@ -1,0 +1,6 @@
+Song Title,Artist,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration (ms)
+Uptown Funk!,Mark Ronson feat. Bruno Mars,0.84,0.8,5,-5.5,0,0.05,0.19,0.0,0.35,0.92,115.0,269000
+Thinking Out Loud,Ed Sheeran,0.72,0.56,0,-6.9,1,0.03,0.53,0.0,0.08,0.52,79.0,281000
+See You Again,Wiz Khalifa feat. Charlie Puth,0.66,0.55,2,-6.4,1,0.05,0.41,0.0,0.11,0.37,80.0,229000
+Trap Queen,Fetty Wap,0.82,0.68,1,-4.8,0,0.14,0.13,0.0,0.38,0.66,148.0,222000
+Sugar,Maroon 5,0.76,0.74,0,-4.3,1,0.04,0.1,0.0,0.15,0.86,120.0,235000
